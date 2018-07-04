@@ -49,6 +49,7 @@ public class ObjectUtilsTest
     @Test
     public void testJoin()
     {
+        //My comment
         DataElement deA = new DataElement( "DataElementA" );
         DataElement deB = new DataElement( "DataElementB" );
         DataElement deC = new DataElement( "DataElementC" );
